@@ -1,4 +1,5 @@
 # PLP-SWE-GIT-TASK
+PLP's Software engineering git and github tasks <br>
 Just explaining the steps i took to clone a random repository in my local machine. <br> <br>
 First step was to find a public repository i could clone <br> <br>
 Then i copied the repository's HTTPS link. <br> <br>
