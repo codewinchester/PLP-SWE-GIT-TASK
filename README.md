@@ -7,4 +7,7 @@ Then i copied the repository's HTTPS link. <br> <br>
 I then went ahead and opened up my git app <br> <br>
 Which i later keyed in the command 'Git clone https://github.com/dejwid/mern-blog.git <br> <br>
 The cloning was succesfully achieved. <br> <br>
-![Screenshot 2024-05-29 145803](https://github.com/codewinchester/PLP-SWE-GIT-TASK/assets/160033340/2e761a1a-c108-485c-9dd4-c3aa5b56ac59)
+![Screenshot 2024-05-29 145803](https://github.com/codewinchester/PLP-SWE-GIT-TASK/assets/160033340/2e761a1a-c108-485c-9dd4-c3aa5b56ac59) <br> <br>
+The next task was forking. <br> <br>
+Forking is requesting Github to register another person's public repository under your ID. <br> <br>
+![Screenshot 2024-05-31 112545](https://github.com/codewinchester/PLP-SWE-GIT-TASK/assets/160033340/170f65b8-a70e-4590-b594-cb69a05adff0)
